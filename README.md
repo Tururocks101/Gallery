@@ -1,6 +1,6 @@
 # Gallery
 
-A virtual gallery of images that interest me, using django,python
+A gallery of images that interest me, using django,python
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To get a development env running, use the **.env.example** file to create a **.e
 Run automated tests for this system
 
 ```sh
-(virtual) $ python3 manage.py test picha
+(virtual) $ python3 manage.py test gallery
 ```
 
 ## Deployment
@@ -35,7 +35,7 @@ To run it locally
 
 ## Built With
 
-* [Django 3.0.8](https://www.djangoproject.com/) - The web framework used
+* [Django 4.0.3](https://www.djangoproject.com/) - The web framework used
 * [Heroku](https://www.heroku.com/platform) -  Deployment platform
 * [Python3.6](https://www.python.org/) - Backend logic
 * [Postresql](https://www.postgresql.org/) - Database system
